@@ -78,9 +78,9 @@ for information on how to get and use XPP.
 
 ## These model files were submitted by:
 
-Dr. Sheng-Nan Wu, Han-Dong Chang, and Jiun-Shian Wu
-Dept Physiol
-Natl Cheng Kung U Med Coll
+Dr. Sheng-Nan Wu, Han-Dong Chang, and Jiun-Shian Wu  
+Dept Physiol  
+Natl Cheng Kung U Med Coll  
 Tainan 70101, Taiwan
 
 snwu@mail.ncku.edu.tw
